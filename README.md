@@ -2,8 +2,7 @@
 
 Protótipo de IoT que mede **temperatura**, **umidade** e **luminosidade** com um ESP32 e envia cada leitura por Wi-Fi, em JSON (HTTP POST), para um servidor em Python. O servidor grava o histórico no **MongoDB** e mostra os dados em um **dashboard web** atualizado em tempo real.
 
-- Vídeo demonstrativo: [colar o link]
-- Relatório técnico: [colar o link ou o nome do PDF]
+- Vídeo demonstrativo: [https://youtu.be/lDfZbuiANzo?is=lZVIlx5v4KdXY-su]
 
 ## Como funciona
 
